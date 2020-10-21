@@ -2,6 +2,8 @@
 
 ## Setup Project
 
+### Using `npm`
+
 `npm init -y`
 
 `npm install --save express`
@@ -36,5 +38,21 @@ console.log("Hello, World!");
 `npm install`
 
 `npm start`
+
+### You can using `yarn` instead of `npm`
+`yarn init -y`
+
+`yarn add express`
+
+`yarn add --save-dev @babel/core @babel/cli @babel/preset-env @babel/node`
+
+`yarn install`
+
+`yarn start`
+
+I usually using `yarn` instead of `npm`, you can search comparision of `npm` and `yarn`
+
+## Development Enviroment
+I recommend you using Visual Studio Code. 
 
 Happy coding 😄
