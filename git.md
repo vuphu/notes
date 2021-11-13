@@ -1,1 +1,1 @@
-
+- **Disable paginate branch**: `git config --global pager.branch false` 
