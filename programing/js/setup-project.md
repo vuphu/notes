@@ -1,4 +1,4 @@
-# JavaScript Note
+# JavaScript
 
 ## Setup Project
 
