@@ -1,1 +1,2 @@
 - **Disable paginate branch**: `git config --global pager.branch false` 
+- **Delete bulk branchs**: `git branch | grep -iE 'FIX|FEAT' | xargs git branch -D`
